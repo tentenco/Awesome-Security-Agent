@@ -1,6 +1,8 @@
 # Awesome Security Agent
 
-[繁體中文](README.zh-Hant.md) · [Defensive playbook](PLAYBOOK.md) · [Contribute](CONTRIBUTING.md)
+**English** · [繁體中文](README.zh-Hant.md) · [简体中文](README.zh-Hans.md)
+
+[Defensive playbook](PLAYBOOK.md) · [Contribute](CONTRIBUTING.md)
 
 An independent directory for people who build or use agents for defensive security.
 
@@ -36,7 +38,7 @@ Use this directory to put together a workflow someone else can pick up on the ne
 
 ### Patch triage and advisory evidence
 
-Match the advisory to your software or asset inventory. Use the vendor advisory to check the product branch, affected range, and recommended fix. Keep the source and date with the result.
+Match the advisory to your software or asset inventory. Use the vendor advisory to check the product branch, affected range, and recommended fix. Keep the source and date with the result. If the inventory is out of date or the product branch is unclear, mark the result as **needs verification** and say what's missing. [Worked patch triage example](PLAYBOOK.md#worked-patch-triage-example)
 
 | Resource | Kind | Where it fits |
 | --- | --- | --- |
